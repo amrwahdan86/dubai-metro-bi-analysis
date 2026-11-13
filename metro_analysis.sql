@@ -1,0 +1,1 @@
+SELECT * FROM metro_project.metro_trends_view;
