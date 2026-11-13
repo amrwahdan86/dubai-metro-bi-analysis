@@ -17,7 +17,7 @@ This project analyzes post-COVID ridership recovery across Dubai Metro stations 
 * I used SQL `MAX()` aggregations grouped by station/year/month to deduplicate the data before calculating the recovery baselines, ensuring accurate trend analysis.
 
 ## 🔗 Links
-* [View the Interactive Tableau Dashboard Here](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[* [View the Interactive Tableau Dashboard Here](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)](https://public.tableau.com/views/portfolioproject1_17945834441620/DubaiMetroPost-COVIDRidershipRecovery2019vs2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📊 Dashboard Preview
 ![Dashboard](dashboard.png)
